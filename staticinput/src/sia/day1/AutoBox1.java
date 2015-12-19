@@ -12,7 +12,7 @@ public class AutoBox1 {
 		System.out.println(s3);
 		//s2="a";
 		System.out.println(s1==s2);
-		Integer i1=new Integer (3);
+		Integer i1=new Integer (3);     
 		Integer i2=new Integer (3);
 		//i2=2;
 		Integer i3=Integer.valueOf("a");
